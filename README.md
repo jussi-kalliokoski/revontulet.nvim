@@ -17,7 +17,7 @@ A dark but vibrant color scheme for neovim inspired by the northern lights. All 
 With [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug `jussi-kalliokoski/revontulet.nvim`
+Plug "jussi-kalliokoski/revontulet.nvim"
 ```
 
 # 🚀 Usage
